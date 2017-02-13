@@ -13,6 +13,7 @@ The process to use the Wireless Digital Dead Drop is simple
 * Build the Anrdoid App with new defaults for the SSID, output file name, website URL
 * Install and start the Android App
 * Hit the "Activate" button in the app
+
 That's it!  Once you are in range of the ESP8266 it will auto connect and download the file.
 
 A pre-built version of the app can be found in DeadDropGrab/app/build/outputs/apk/
